@@ -292,7 +292,7 @@ input, select, textarea {
 		}
 
 		.row.aln-middle {
-			align-items: center;
+			align-items: left;
 		}
 
 		.row.aln-bottom {
