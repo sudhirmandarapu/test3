@@ -1751,8 +1751,7 @@ input, select, textarea {
 
 		.image img {
 			display: block;
-			width: 50%;
-			min-width: 300px;
+			width: 100%;
 		}
 
 		.image.avatar48 {
@@ -1768,7 +1767,8 @@ input, select, textarea {
 
 		.image.fit {
 			display: block;
-			width: 100%;
+			width: 50%;
+			min-width: 300px;
 		}
 
 		.image.featured {
